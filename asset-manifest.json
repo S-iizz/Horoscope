@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Horoscope/static/css/main.b6a66729.css",
+    "main.js": "/Horoscope/static/js/main.0dea878e.js",
+    "static/js/453.dea66c84.chunk.js": "/Horoscope/static/js/453.dea66c84.chunk.js",
+    "static/media/tarot-card-bg.png": "/Horoscope/static/media/tarot-card-bg.558f9896c4eaa461b3b0.png",
+    "static/media/7.png": "/Horoscope/static/media/7.ab0792eb8e60d6334dd6.png",
+    "static/media/4.png": "/Horoscope/static/media/4.7c0d86e70e2ff68fd833.png",
+    "static/media/3.png": "/Horoscope/static/media/3.9a6f07ad0bb220ac4e06.png",
+    "static/media/10.png": "/Horoscope/static/media/10.a87f8d447cb37b5fa23a.png",
+    "static/media/8.png": "/Horoscope/static/media/8.346b538d995f3ca35685.png",
+    "static/media/5.png": "/Horoscope/static/media/5.b89d29d64a1cd81772a5.png",
+    "static/media/9.png": "/Horoscope/static/media/9.213a8494a5798aad14ff.png",
+    "static/media/6.png": "/Horoscope/static/media/6.6ee17fb4ecd64f1c2ee4.png",
+    "static/media/fortune-bg.png": "/Horoscope/static/media/fortune-bg.a306e7ea3a7c9591f115.png",
+    "static/media/1.png": "/Horoscope/static/media/1.65cabcb0764f4131ab41.png",
+    "static/media/2.png": "/Horoscope/static/media/2.617b52e451b6a94091de.png",
+    "static/media/PastLife-result.png": "/Horoscope/static/media/PastLife-result.8cec70e3e8a3c9aaba42.png",
+    "static/media/fortune-result.png": "/Horoscope/static/media/fortune-result.9607959eefba4137a041.png",
+    "static/media/PastLife-select.png": "/Horoscope/static/media/PastLife-select.4c44e22597f01e6babf1.png",
+    "static/media/zodiac-bg.png": "/Horoscope/static/media/zodiac-bg.9d78b8f10d01364ef14d.png",
+    "static/media/divination-bg.png": "/Horoscope/static/media/divination-bg.22457399dbcc3acbdd30.png",
+    "static/media/tarot-bg.png": "/Horoscope/static/media/tarot-bg.933e210f285ea6d54b96.png",
+    "static/media/zodiac-result.png": "/Horoscope/static/media/zodiac-result.bcc5c80a489137a9d5b5.png",
+    "static/media/PastLife-bg.png": "/Horoscope/static/media/PastLife-bg.29f88b869f7ff75d99f3.png",
+    "static/media/bg-black.png": "/Horoscope/static/media/bg-black.119b239f790acad74452.png",
+    "index.html": "/Horoscope/index.html",
+    "main.b6a66729.css.map": "/Horoscope/static/css/main.b6a66729.css.map",
+    "main.0dea878e.js.map": "/Horoscope/static/js/main.0dea878e.js.map",
+    "453.dea66c84.chunk.js.map": "/Horoscope/static/js/453.dea66c84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a66729.css",
+    "static/js/main.0dea878e.js"
+  ]
+}
