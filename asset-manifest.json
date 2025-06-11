@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Horoscope/static/css/main.b6a66729.css",
-    "main.js": "/Horoscope/static/js/main.0dea878e.js",
+    "main.js": "/Horoscope/static/js/main.ef281a33.js",
     "static/js/453.dea66c84.chunk.js": "/Horoscope/static/js/453.dea66c84.chunk.js",
     "static/media/tarot-card-bg.png": "/Horoscope/static/media/tarot-card-bg.558f9896c4eaa461b3b0.png",
     "static/media/7.png": "/Horoscope/static/media/7.ab0792eb8e60d6334dd6.png",
@@ -26,11 +26,11 @@
     "static/media/bg-black.png": "/Horoscope/static/media/bg-black.119b239f790acad74452.png",
     "index.html": "/Horoscope/index.html",
     "main.b6a66729.css.map": "/Horoscope/static/css/main.b6a66729.css.map",
-    "main.0dea878e.js.map": "/Horoscope/static/js/main.0dea878e.js.map",
+    "main.ef281a33.js.map": "/Horoscope/static/js/main.ef281a33.js.map",
     "453.dea66c84.chunk.js.map": "/Horoscope/static/js/453.dea66c84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6a66729.css",
-    "static/js/main.0dea878e.js"
+    "static/js/main.ef281a33.js"
   ]
 }
